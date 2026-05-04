@@ -1,4 +1,4 @@
-# 🚀 Harsh Rana | Developer Portfolio
+# 🚀 Harsh Rana
 
 Hi there 👋  
 I'm **Harsh Rana**, a passionate **Full Stack Developer** and **Backend Enthusiast** who loves building scalable applications and solving real-world problems.
